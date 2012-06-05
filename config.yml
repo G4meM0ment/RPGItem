@@ -1,0 +1,12 @@
+#                                        #
+#               RPGITEM                  #
+#                                        #
+# This plugin tries to create the        #
+# expirence with items like in role      #
+# playing games                          #
+#                                        #
+
+permissions: false
+items: true
+armor: true
+default_durability_bar: true

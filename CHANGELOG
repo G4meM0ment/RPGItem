@@ -1,0 +1,16 @@
+Version: 0.1.4
+    added commentary (for developers)
+    added more "checkpoints" to repair the items
+
+Version: 0.1.2
+    first beta release
+    added items oftener repairs
+    fixed armor wont be repaired 
+
+Version: 0.0.8
+    first RPGItem release (compatible with CB 1.2.5-R3.0)
+	added config
+    toggle permissions
+    toggle what is repaired
+    added permissions (rpgitem.reload and rpgitem.admin)
+    added reload command
