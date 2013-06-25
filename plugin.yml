@@ -1,6 +1,6 @@
 name: RPGItem
 main: me.G4meM0ment.RPGItem.RPGItem
-version: 0.1.4
+version: 0.1.07
 commands:
    rpgitem:
        description: Reloads the config.yml of RPGItems

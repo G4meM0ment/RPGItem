@@ -1,3 +1,10 @@
+Version: 0.1.6
+	fixed some times items wouldn't be repaired
+
+Version: 0.1.5
+	updated to CB 1.2.5-R4.0
+	fixed RGPItem would prevent using some blocks
+
 Version: 0.1.4
     added commentary (for developers)
     added more "checkpoints" to repair the items
